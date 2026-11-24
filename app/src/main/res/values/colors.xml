@@ -1,0 +1,11 @@
+<resources>
+    <color name="dash_bg">#080B12</color>
+    <color name="dash_card">#0F1420</color>
+    <color name="dash_border">#1E2538</color>
+    <color name="dash_red">#EF4444</color>
+    <color name="dash_green">#10B981</color>
+    <color name="dash_cyan">#06B6D4</color>
+    <color name="dash_amber">#F59E0B</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#94A3B8</color>
+</resources>

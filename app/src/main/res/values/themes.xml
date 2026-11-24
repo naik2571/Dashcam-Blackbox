@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Dashcam" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+        <item name="android:windowBackground">#080B12</item>
+        <item name="colorPrimary">#EF4444</item>
+    </style>
+</resources>

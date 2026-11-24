@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wide-Angle Camera Lens Outer Rim -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="4"
+        android:pathData="M54,54m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+    <!-- Inner Lens Aperture -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="3"
+        android:pathData="M54,54m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+    <!-- Telemetry Crosshairs -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,24 v6 M54,78 v6 M24,54 h6 M78,54 h6" />
+    <!-- Active Recording Red Strobe Dot -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M68,38m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+</vector>
